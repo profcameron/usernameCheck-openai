@@ -1,3 +1,10 @@
+### Ignoring IntelliJ IDEA files/folders ###
+.idea/
+*.iws
+*.iml
+*.ipr
+target/
+
 # Compiled class file
 *.class
 
