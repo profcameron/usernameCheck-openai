@@ -1,7 +1,7 @@
 # Username Checker
 
 ## Purpose
-I was helping one of our capstone groups and our product owner asked if we could check usernames for "appropriateness". I was inspired to try to use ChatGPT's OpenAI to do it. It brought me back to a time when I was creating student accounts for a college Unix administration position, and we had a guy named Steve Hitlin apply for an account. Our policy was to use first initial, followed by last name, so you can probably see the problem. This is how he ended up with the username sthitlin.
+I was helping a team of students and the team's product owner asked if we could check usernames for "appropriateness". I was inspired to try to use ChatGPT's OpenAI to do it. It brought me back to a time when I was creating student accounts for a college Unix administration position, and we had a guy named Steve Hitlin apply for an account. Our policy was to use first initial, followed by last name, so you can probably see the problem. This is how he ended up with the username sthitlin.
 
 The fun part was how much I had to delve into **prompt engineering** to try to get the API to:
 
