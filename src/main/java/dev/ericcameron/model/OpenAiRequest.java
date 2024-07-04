@@ -1,4 +1,4 @@
-package com.techelevator.model;
+package dev.ericcameron.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

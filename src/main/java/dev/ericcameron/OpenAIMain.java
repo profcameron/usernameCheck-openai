@@ -1,9 +1,9 @@
-package com.techelevator;
+package dev.ericcameron;
 
 import com.fasterxml.jackson.databind.JsonNode;
-import com.techelevator.dao.OpenAiConfiguration;
-import com.techelevator.model.OpenAiRequest;
-import com.techelevator.model.OpenAiResponse;
+import dev.ericcameron.dao.OpenAiConfiguration;
+import dev.ericcameron.model.OpenAiRequest;
+import dev.ericcameron.model.OpenAiResponse;
 import org.springframework.http.HttpEntity;
 import org.springframework.web.client.ResourceAccessException;
 import org.springframework.web.client.RestClientResponseException;
